@@ -1,0 +1,18 @@
+{
+  "author": "J. Fernando Sánchez (balkian)",
+  "name": "simple-colourful-logger",
+  "description": "Simple colourful logger (http://gsi.dit.upm.es).",
+  "version": "0.0.2",
+  "repository": {
+    "url": "git://github.com/gsi-upm/Maia"
+  },
+  "main": "./lib/simple-colourful-logger",
+  "dependencies": {
+    "cli-color": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
