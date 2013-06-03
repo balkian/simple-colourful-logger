@@ -2,7 +2,7 @@
   "author": "J. Fernando Sánchez (balkian)",
   "name": "simple-colourful-logger",
   "description": "Simple colourful logger (http://gsi.dit.upm.es).",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "repository": {
     "url": "git://github.com/gsi-upm/Maia"
   },
