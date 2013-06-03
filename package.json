@@ -4,7 +4,7 @@
   "description": "Simple colourful logger (http://gsi.dit.upm.es).",
   "version": "0.1.0",
   "repository": {
-    "url": "git://github.com/gsi-upm/Maia"
+    "url": "git://github.com/balkian/simple-colourful-logger"
   },
   "main": "./lib/simple-colourful-logger",
   "dependencies": {
