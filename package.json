@@ -2,7 +2,7 @@
   "author": "J. Fernando Sánchez (balkian)",
   "name": "simple-colourful-logger",
   "description": "Simple colourful logger (http://gsi.dit.upm.es).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "url": "git://github.com/balkian/simple-colourful-logger"
   },
